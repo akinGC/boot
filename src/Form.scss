@@ -1,0 +1,47 @@
+.ug-topbar{
+    font-size: 1.3vw;
+}
+.ug-topbar-mid{
+    width: 20vw;
+}
+.ug-navbar-search{
+    width: 30vw;
+}
+.ug-navbar{
+    background-color:#fff6f4;
+    i{
+        cursor: pointer;
+    }
+}
+
+.ug-navbar-options{
+    gap: 2vw;
+    position: relative;
+    left: 1vw;
+    font-weight: 600;
+    transform: scale(1.1);
+    width: 50vw;
+
+    span{
+        cursor: pointer;
+   
+      font-size: 1vw;
+       
+ 
+    }
+}
+.all-offer-section{
+    background-color: #fff6f4;
+}
+.navbar-toggler{
+  margin: 0%;
+  padding: 0%;
+  height: 5vh;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.cart-cnt {
+    gap: 1vw;
+}
